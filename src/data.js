@@ -1,37 +1,37 @@
 export default [
   {
     id: 1,
-    name: 'Bertie Yates',
-    age: 29,
+    name: "Rem",
+    age: 17,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg',
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStK_cstH9T5wucmZjBvNtNQ6wbsjKTDnNmMg&usqp=CAU",
   },
   {
     id: 2,
-    name: 'Hester Hogan',
-    age: 32,
+    name: "Saitama",
+    age: 25,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg',
+      "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/03/One-Punch-Man-Saitama.jpg?q=50&fit=crop&w=750&dpr=1.5",
   },
   {
     id: 3,
-    name: 'Larry Little',
-    age: 36,
+    name: "Ken Kaneki",
+    age: 19,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg',
+      "https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/04/Ken-Kaneki-Entry-Image-2.jpg?q=50&fit=crop&w=750&dpr=1.5",
   },
   {
     id: 4,
-    name: 'Sean Walsh',
-    age: 34,
+    name: "Itachi Uchiha",
+    age: 21,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
+      "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/11/Itachi.jpg?q=50&fit=crop&w=750&dpr=1.5",
   },
   {
     id: 5,
-    name: 'Lola Gardner',
-    age: 29,
+    name: "Mikasa Ackerman",
+    age: 15,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
+      "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/04/Mikasa-Ackerman-(1).jpg?q=50&fit=crop&w=750&dpr=1.5",
   },
 ];
